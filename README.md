@@ -13,4 +13,5 @@ def alg():
 # Explanation of the alg
 # Other examples (Optional)
 ```
+If you'd like to join the discord: https://discord.gg/vKBsSjTkDv
 
